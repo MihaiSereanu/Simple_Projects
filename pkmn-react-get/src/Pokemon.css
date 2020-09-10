@@ -1,0 +1,9 @@
+html {
+  background-color: black;
+  color: white;
+}
+
+.pokemon-names {
+  margin: 0 auto;
+  border: 1px solid red;
+}
